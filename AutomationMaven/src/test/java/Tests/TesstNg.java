@@ -57,7 +57,7 @@ public class TesstNg {
 	@AfterMethod
 	public void pm()
 	{
-		system.out.println("night");
+		system.out.println("night abcdef");
 		}
 
 		
