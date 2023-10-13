@@ -54,11 +54,6 @@ public class TesstNg {
 	{
 		System.out.println("good");
 	}
-	@AfterClass
-	public void ac()
-	{
-		System.out.println("morninig");
-	}
 	
 	
 	
