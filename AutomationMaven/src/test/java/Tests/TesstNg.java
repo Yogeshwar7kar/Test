@@ -54,6 +54,13 @@ public class TesstNg {
 	{
 		System.out.println("good");
 	}
+	@AfterMethod
+	public void pm()
+	{
+		system.out.println("night");
+		}
+
+		
 	
 	
 	
