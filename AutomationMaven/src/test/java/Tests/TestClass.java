@@ -26,7 +26,7 @@ public class TestClass {
 	    automate.senddate("04/09/2023");
 	    automate.selectcountry();
 	    automate.selectcolor();
-////@@
+
 
 	}
 
