@@ -27,6 +27,7 @@ public class TestClass {
 	    automate.selectcountry();
 	    automate.selectcolor();
 ////@@
+
 	}
 
 }
